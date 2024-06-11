@@ -1,0 +1,31 @@
+/* App.js */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); 
+
+.App { 
+	height: 60vh; 
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+} 
+
+.left { 
+	box-sizing: border-box; 
+	padding-left: 10px; 
+	width: 50%; 
+} 
+.heading {
+	font-size: 60px; 
+	text-align: center; 
+	text-decoration: underline; 
+	font-family: 'Pacifico', cursive; 
+	color: #1453dc; 
+} 
+
+p { 
+	font-size: 20px; 
+	color: #1453dcaf; 
+} 
+
+#ip { 
+	color: #1453dc; 
+}
